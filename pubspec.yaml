@@ -1,0 +1,37 @@
+name: sol_ace
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  wave: ^0.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    
+    - images\logo.png
+    - images\solace.png
+    - images\tip.png
+    - images\mdrrmo.png
+    - images\stabarbara.png
+    - images\hl.png
+    - images\BEG.png
+    - images\BP.png
+    - images\L.png
+    
+ # fonts:
+  #    fonts:
+   #      - asset: fonts/MarkoOne-Regular.ttf
+
